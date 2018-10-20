@@ -21,4 +21,4 @@ Telegram `@HonkaiBot`
 
 本项目使用 MIT 协议进行授权
 
-角色语音版版权归上海米哈游科技有限公司所有，若有侵权请联系 Telegram `@lolilin`
+角色语音版权归上海米哈游科技有限公司所有，若有侵权请 Telegram 联系 `@lolilin`
